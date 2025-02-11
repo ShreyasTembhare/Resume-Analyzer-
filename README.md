@@ -12,7 +12,7 @@ For Applicants:
 ✔️ Offers interview & resume improvement tips.
 ✔️ Generates an overall resume score.
 
-For Recruiters & Administrators:
+For Recruiters & Administrators`   
 ✔️ Converts resume data into structured formats (CSV, Database).
 ✔️ Stores uploaded resumes for future reference.
 ✔️ Collects user feedback & ratings.
